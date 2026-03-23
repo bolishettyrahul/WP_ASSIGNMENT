@@ -27,7 +27,8 @@ body {
 /* ===== Navigation ===== */
 .navbar {
     background-color: #fff;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 1px solid #e7edf4;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
     padding: 15px 0;
     position: sticky;
     top: 0;
@@ -83,8 +84,8 @@ body {
 
 /* ===== Hero Section ===== */
 .hero {
-    padding: 54px 0;
-    margin-bottom: 40px;
+    padding: 54px 0 34px;
+    margin-bottom: 24px;
 }
 
 .hero-grid {
@@ -348,8 +349,9 @@ body {
     padding: 40px 0;
     background-color: #fff;
     margin-bottom: 40px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    border: 1px solid #eef2f7;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
 }
 
 .about h2 {
@@ -367,7 +369,7 @@ body {
 /* ===== Featured Courses ===== */
 .featured-courses {
     padding: 40px 0;
-    margin-bottom: 40px;
+    margin-bottom: 24px;
 }
 
 .featured-courses h2 {
@@ -385,9 +387,9 @@ body {
 
 .course-item {
     background-color: #fff;
-    border: 1px solid #ddd;
+    border: 1px solid #eef2f7;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 12px;
     text-align: center;
     transition: box-shadow 0.3s, transform 0.3s;
 }
@@ -411,7 +413,7 @@ body {
 
 /* ===== Testimonials ===== */
 .testimonials {
-    padding: 20px 0 50px;
+    padding: 20px 0 40px;
 }
 
 .testimonials h2 {
@@ -428,7 +430,7 @@ body {
 
 .testimonial-card {
     background-color: #fff;
-    border: 1px solid #ddd;
+    border: 1px solid #eef2f7;
     border-radius: 8px;
     padding: 20px;
 }
@@ -469,9 +471,9 @@ body {
 
 .course-card {
     background-color: #fff;
-    border: 1px solid #ddd;
+    border: 1px solid #eef2f7;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 12px;
     transition: box-shadow 0.3s, transform 0.3s;
 }
 
@@ -502,7 +504,7 @@ body {
     color: #fff;
     padding: 30px 0;
     text-align: center;
-    border-top: 2px solid #ddd;
+    border-top: 1px solid #3d3d3d;
 }
 
 .footer p {
@@ -740,7 +742,7 @@ body {
 .course-header {
     background-color: #e8f4f8;
     padding: 30px;
-    border-radius: 5px;
+    border-radius: 12px;
     margin-bottom: 30px;
 }
 
@@ -833,8 +835,8 @@ body {
 
 .course-card-detail {
     background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    border: 1px solid #eef2f7;
+    border-radius: 12px;
     padding: 20px;
 }
 
@@ -902,9 +904,9 @@ body {
 /* ===== Instructor Section ===== */
 .instructor-section {
     background-color: #fff;
-    border: 1px solid #ddd;
+    border: 1px solid #eef2f7;
     padding: 30px;
-    border-radius: 5px;
+    border-radius: 12px;
     margin-bottom: 40px;
 }
 
