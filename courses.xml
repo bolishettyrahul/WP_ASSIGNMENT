@@ -3,12 +3,12 @@
     <course id="1">
         <title>Complete Web Development</title>
         <instructor>
-            <name>John Smith</name>
+            <name>Rahul Verma</name>
             <email>john.smith@edulearn.com</email>
             <experience>10 years</experience>
             <bio>Expert instructor with extensive experience in full-stack web development. Passionate about teaching modern web technologies.</bio>
         </instructor>
-        <price currency="USD">99</price>
+        <price currency="INR">99</price>
         <rating>4.8</rating>
         <reviews>512</reviews>
         <category>Development</category>
@@ -58,12 +58,12 @@
     <course id="2">
         <title>UI/UX Design Mastery</title>
         <instructor>
-            <name>Sarah Johnson</name>
+            <name>Anil Kumar</name>
             <email>sarah.johnson@edulearn.com</email>
             <experience>8 years</experience>
             <bio>Talented UX/UI designer with portfolio at top tech companies. Specialized in user-centered design and design thinking.</bio>
         </instructor>
-        <price currency="USD">79</price>
+        <price currency="INR">79</price>
         <rating>4.9</rating>
         <reviews>328</reviews>
         <category>Design</category>
@@ -105,12 +105,12 @@
     <course id="3">
         <title>Python for Beginners</title>
         <instructor>
-            <name>Mike Chen</name>
+            <name>Bharath Reddy</name>
             <email>mike.chen@edulearn.com</email>
             <experience>12 years</experience>
             <bio>Python expert and software engineer. Known for making complex concepts simple and engaging.</bio>
         </instructor>
-        <price currency="USD">49</price>
+        <price currency="INR">49</price>
         <rating>4.7</rating>
         <reviews>891</reviews>
         <category>Programming</category>
@@ -152,12 +152,12 @@
     <course id="4">
         <title>JavaScript Advanced Concepts</title>
         <instructor>
-            <name>Emma Wilson</name>
+            <name>Rahul Nair</name>
             <email>emma.wilson@edulearn.com</email>
             <experience>9 years</experience>
             <bio>JavaScript specialist with expertise in modern frameworks and best practices.</bio>
         </instructor>
-        <price currency="USD">89</price>
+        <price currency="INR">89</price>
         <rating>4.6</rating>
         <reviews>456</reviews>
         <category>Development</category>
@@ -191,12 +191,12 @@
     <course id="5">
         <title>Digital Marketing Basics</title>
         <instructor>
-            <name>David Brown</name>
+            <name>Anil Sharma</name>
             <email>david.brown@edulearn.com</email>
             <experience>7 years</experience>
             <bio>Digital marketing strategist with proven track record of successful campaigns.</bio>
         </instructor>
-        <price currency="USD">59</price>
+        <price currency="INR">59</price>
         <rating>4.5</rating>
         <reviews>234</reviews>
         <category>Marketing</category>
@@ -230,12 +230,12 @@
     <course id="6">
         <title>React.js Mastery Course</title>
         <instructor>
-            <name>Lisa Anderson</name>
+            <name>Bharath Rao</name>
             <email>lisa.anderson@edulearn.com</email>
             <experience>11 years</experience>
             <bio>React specialist with experience building scalable applications at major tech companies.</bio>
         </instructor>
-        <price currency="USD">109</price>
+        <price currency="INR">109</price>
         <rating>4.9</rating>
         <reviews>678</reviews>
         <category>Development</category>
